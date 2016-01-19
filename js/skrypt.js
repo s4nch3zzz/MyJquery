@@ -1,5 +1,5 @@
-$('p').click(function powitaj()
+$(function(){ $('.opis h2').mouseover(function ()
 {
 	alert('Witaj');
 });
-
+});
